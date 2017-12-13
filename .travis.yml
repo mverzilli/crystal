@@ -1,8 +1,7 @@
 language: generic
 
-dist: trusty
 sudo: required
-# test
+dist: trusty
 group: deprecated-2017Q4
 
 services:
